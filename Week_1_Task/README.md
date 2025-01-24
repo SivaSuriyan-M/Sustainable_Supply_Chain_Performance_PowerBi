@@ -99,5 +99,11 @@ The following transformations were performed for each table:
 
 ---
 
+## Screenshot
+
+![Screenshot 2025-01-24 111141](https://github.com/user-attachments/assets/1c87fe8e-a069-4158-8a37-e5d57043a2a1)
+
+---
+
 Feel free to reach out if you have questions or suggestions!
 
