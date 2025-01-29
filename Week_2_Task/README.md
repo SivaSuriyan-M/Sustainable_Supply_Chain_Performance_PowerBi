@@ -25,9 +25,9 @@ To ensure data quality, the following cleaning steps were performed:
 Rounded Price = ROUND([Price], 2)
 Rounded Costs = ROUND([Costs], 2)
 Rounded Defect Rate = ROUND([Defect rates], 1)
+```
 
 ---
 
 ## **Data Model (Screenshot)**
 ![Screenshot 2025-01-29 131332](https://github.com/user-attachments/assets/d2b730ff-4951-4338-bc34-aa3e89342983)
-
